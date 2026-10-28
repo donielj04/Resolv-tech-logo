@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" aria-labelledby="title desc">
+  <title id="title">Resolv Tech Solutions Logo</title>
+  <desc id="desc">A modern blue and teal abstract logo for Resolv Tech Solutions.</desc>
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" x2="1">
+      <stop offset="0%" stop-color="#14b8a6"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="#f8fafc"/>
+  <g transform="translate(40,60)">
+    <rect x="0" y="50" width="200" height="200" rx="44" fill="url(#g1)"/>
+    <path d="M62 205 L125 92 L188 205" fill="none" stroke="#e0f2fe" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M88 165 L124 121 L160 165" fill="none" stroke="#a5f3fc" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="124" cy="84" r="22" fill="#e0f2fe"/>
+  </g>
+  <g transform="translate(290,90)">
+    <text x="0" y="120" font-size="88" font-family="Segoe UI, Arial, sans-serif" font-weight="700" fill="#0f172a">Resolv</text>
+    <text x="0" y="210" font-size="50" font-family="Segoe UI, Arial, sans-serif" font-weight="600" fill="#0ea5e9" letter-spacing="3">TECH</text>
+    <rect x="0" y="238" width="320" height="10" rx="5" fill="url(#g2)"/>
+    <text x="0" y="295" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="500" fill="#334155" letter-spacing="5">SOLUTIONS</text>
+  </g>
+</svg>
